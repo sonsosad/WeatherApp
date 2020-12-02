@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="clear">Clear</string>
+    <string name="clouds">Clouds</string>
+    <string name="fog">Fog</string>
+    <string name="light_clouds">Light Clouds</string>
+    <string name="light_rain">Light Rain</string>
+    <string name="snow">Snow</string>
+    <string name="storm">Storm</string>
+
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thurday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+
+</resources>
